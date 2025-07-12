@@ -2,7 +2,7 @@
 
 Este repositório reúne tutoriais em Jupyter Notebook utilizados na elaboração dos gráficos do relatório da **segunda edição do Questionário PRIP: Inclusão e Pertencimento na USP (QPRIP)**, promovido pela Pró-Reitoria de Inclusão e Pertencimento da Universidade de São Paulo (USP).
 
-Os tutoriais apresentam exemplos práticos de geração de gráficos **a partir de dados sintéticos**, ilustrando diferentes formas de visualização na análise dos resultados da pesquisa.
+Os tutoriais apresentam exemplos práticos de geração de gráficos **a partir de dados sintéticos**, ilustrando diferentes formas de visualização na análise dos resultados da pesquisa. As cores utilizadas são acessíveis para pessoas daltônicas; além disso, o PDF gerado com os gráficos de barras é facilmente compreendido por leitores de tela, recurso utilizado principalmente por pessoas com deficiência visual, como cegueira ou baixa visão.
 
 ---
 
