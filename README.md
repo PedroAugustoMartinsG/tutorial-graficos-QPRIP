@@ -14,19 +14,24 @@ O objetivo deste repositório é **servir como material de apoio para quem desej
 
 ## Arquivos disponíveis
 
-- `Gráfico de barras 100% empilhadas.ipynb`  
-  Exemplo de gráfico para comparação proporcional entre categorias.
-
-- `Gráfico de barras horizontais agrupadas.ipynb`  
+- **[Gráfico de barras horizontais agrupadas](https://github.com/PedroAugustoMartinsG/tutorial-graficos-QPRIP/blob/main/notebooks/Gr%C3%A1fico%20de%20barras%20horizontais%20agrupadas.ipynb)**
+  
   Visualização de comparações entre grupos e subgrupos em uma mesma variável.
 
-- `Gráfico de barras para variáveis na escala Likert.ipynb`  
+- **[Gráfico de barras para variáveis na escala Likert](https://github.com/PedroAugustoMartinsG/tutorial-graficos-QPRIP/blob/main/notebooks/Gr%C3%A1fico%20de%20barras%20para%20vari%C3%A1veis%20na%20escala%20Likert.ipynb)**
+  
   Representação apropriada para variáveis com respostas em escala ordinal.
 
-- `Gráfico de barras univariado.ipynb`  
+- **[Gráfico de barras univariado](https://github.com/PedroAugustoMartinsG/tutorial-graficos-QPRIP/blob/main/notebooks/Gr%C3%A1fico%20de%20barras%20univariado.ipynb)**
+  
   Análise descritiva de uma única variável categórica.
 
-- `Gráfico de caixa.ipynb`  
+- **[Gráfico de barras 100% empilhadas](https://github.com/PedroAugustoMartinsG/tutorial-graficos-QPRIP/blob/main/notebooks/Gr%C3%A1fico%20de%20barras%20100%25%20empilhadas.ipynb)**
+  
+  Exemplo de gráfico para comparação proporcional entre categorias.
+
+- **[Gráfico de caixa](https://github.com/PedroAugustoMartinsG/tutorial-graficos-QPRIP/blob/main/notebooks/Gr%C3%A1fico%20de%20caixa.ipynb)**
+  
   Utilizado para explorar a distribuição de variáveis numéricas, como idade.
 
 ---
